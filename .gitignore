@@ -123,3 +123,5 @@ model_best.pth
 # OS files
 .DS_Store
 Thumbs.db
+
+.vercel
